@@ -9,5 +9,5 @@ Steps:
 
 Solution:
 file1.c was checked using cppcheck tool.
-The error was : 
+The error was : statements following return,break,continue,goto or throw will never be executed.
 The changes were made. chnages were commited to file1.c
