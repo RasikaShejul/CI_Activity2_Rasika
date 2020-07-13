@@ -6,3 +6,8 @@ Steps:
 3)Run the quality check code
 4)Identify the rules followed by cppcheck tool
 5)Push and commit the updated code
+
+Solution:
+file1.c was checked using cppcheck tool.
+The error was : 
+The changes were made. chnages were commited to file1.c
