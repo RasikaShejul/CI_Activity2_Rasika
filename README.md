@@ -10,4 +10,5 @@ Steps:
 Solution:
 file1.c was checked using cppcheck tool.
 The error was : statements following return,break,continue,goto or throw will never be executed.
-The changes were made. chnages were commited to file1.c
+Return statement was removed and then cppcheck gave no errors.These changes were committed in repo for 
+activity 1 also and same has been uploaded in this repo(activity 2) also. Updated code was uploaded (file1.c).
